@@ -5,7 +5,7 @@ namespace FWKnightMaskFix;
 
 public record ModMetadata : AbstractModMetadata
 {
-    public override string ModGuid { get; init; } = "https://forge.sp-tarkov.com/user/111932/flex-wayne#mods";
+    public override string ModGuid { get; init; } = "com.flex-wayne.KnightMaskFix";
     public override string Name { get; init; } = "Flex Wayne's Knight Mask Fix";
     public override string Author { get; init; } = "Flex Wayne (modernized version of Umbigo Preto's Face the Knight Mask Fix)";
     public override List<string>? Contributors { get; init; }
