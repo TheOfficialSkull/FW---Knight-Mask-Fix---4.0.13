@@ -12,11 +12,10 @@
 
 
 
-\*\*Credits\*\*: Based on Umbigo Preto's original mod. All credit to him for the core fix.
-GitHub: https://github.com/Umbigo-Preto/Face-the-Knight---Mask-Fix
-Forge: https://forge.sp-tarkov.com/mod/2352/face-the-knight-mask-fix
-
-
+## Credits
+Derivative of **Umbigo Preto’s “Face the Knight - Mask Fix”** (MIT License).  
+Original: [GitHub](https://github.com/Umbigo-Preto/Face-the-Knight---Mask-Fix) | [Forge](https://forge.sp-tarkov.com/mod/2352/face-the-knight-mask-fix)
+Thank you to Umbigo Preto for the excellent base work that made this possible.
 
 \## Installation
-1. \. Drag & drop the 'SPT' folder of this mod or extract the contents directly into your SPT root folder.
+1. \. Drag & drop the downloaded the unzipped "FW---Knight-Mask-Fix---4.0.13" into your SPT\user\mods folder or extract the contents directly.
