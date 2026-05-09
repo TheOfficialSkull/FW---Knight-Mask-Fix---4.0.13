@@ -3,7 +3,4 @@
         "Enabled": false,
         "ImagePath": "assets/bg.png"
     },
-    "ArmorClass": 4,
-    "Durability": 85,
-    "ArmorMaterial": "Titan"
 }
