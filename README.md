@@ -1,4 +1,4 @@
-\# FlexWayne - Face The Knight Mask Fix
+\# FlexWayne - Face The Knight Mask Fix (SPT v4.0.13)
 
 
 
