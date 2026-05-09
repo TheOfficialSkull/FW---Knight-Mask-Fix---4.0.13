@@ -18,4 +18,5 @@ Original: [GitHub](https://github.com/Umbigo-Preto/Face-the-Knight---Mask-Fix) |
 Thank you to Umbigo Preto for the excellent base work that made this possible.
 
 \## Installation
-1. \. Drag & drop the downloaded the unzipped "FW---Knight-Mask-Fix---4.0.13" into your SPT\user\mods folder or extract the contents directly.
+1. \. Drag & drop the unzipped "FW---Knight-Mask-Fix---4.0.13" into your SPT\user\mods folder or extract the contents directly.
+2. \. Never question where your Knight mask texture is.
